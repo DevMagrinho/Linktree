@@ -1,4 +1,4 @@
 # Projeto-Eletiva
 
 # Link para Linktree
-https://devmagrinho.github.io/ProjetoEletiva/
+https://devmagrinho.github.io/Linktree/
